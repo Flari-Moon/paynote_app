@@ -6,11 +6,11 @@ class TwilioService {
 
 
   TwilioPhoneVerify _twilioPhoneVerify = new TwilioPhoneVerify(
-      accountSid: 'AC17b846ba0c677bd2767cbbba958400ac',
+      accountSid: 'key',
       // replace with Account SID
-      authToken: '352f0d845dc3eaabaabc5007f0055656',
+      authToken: 'key',
       // replace with Auth Token
-      serviceSid: 'VAbce81dbaddf1809dea82934c62c8ff6d' // replace with Service SID
+      serviceSid: 'key' // replace with Service SID
   );
 
   void showOver(BuildContext context,) {

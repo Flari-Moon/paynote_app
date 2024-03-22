@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "602622173533",
+    "firebase_url": "https://paynote-ec4dc.firebaseio.com",
+    "project_id": "paynote-ec4dc",
+    "storage_bucket": "paynote-ec4dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602622173533:android:55736c29bf43f3328008b4",
+        "android_client_info": {
+          "package_name": "com.paynote.paynote_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602622173533-td16btfghb6v4b5cmmrrohbn9d7iki0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcDVZFN_3TW0UHbNermJ4Iyk3ZtXnwRp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602622173533-td16btfghb6v4b5cmmrrohbn9d7iki0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

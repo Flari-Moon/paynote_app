@@ -1,0 +1,355 @@
+PRO-0-00;Edit Profile;Editar Perfil;Bewerk profiel
+PRO-0-01;No photo;Sem foto;Geen foto
+PRO-0-10;Web/Desktop;Web/Desktop;Web / Desktop
+PRO-0-20;Setting;Configurações;Instelling
+PRO-0-30;Premium;Premium;Premie
+PRO-0-40;Try 2 weeks for free!;Teste 2 semanas gratuitamente!;Probeer 2 weken gratis!
+PRO-0-50;FAQ;FAQ;FAQ
+PRO-0-60;Give us feedback;Nos de feedback;Geef ons feedback
+PRO-0-70;Log out;Sair da conta;Uitloggen
+PRO-0-80;Verify your email;Verifique seu email;Controleer je email
+PRO-0-90;Please confirm;Por favor confirme;Bevestig alstublieft
+PRO-1-00;Edit your profile;Edite seu perfil;pas je profiel aan
+PRO-1-01;Profile;Perfil;Profiel
+PRO-1-10;No photo;Sem foto;Geen foto
+PRO-1-11;Name;Nome;Naam
+PRO-1-21;Surname;Sobrenome;Achternaam
+PRO-1-31;Phone number;Numero do telefone;Telefoonnummer
+PRO-1-41;Email;Email;E-mail
+PRO-1-51;Date of birth;Data de nascimento;Geboortedatum
+PRO-1-60;Save Changes;Salvar mudanças;Wijzigingen opslaan
+PRO-1-70;We will send you a verification email;Nós lhe enviaremos um email de verificação;We sturen u een verificatie-e-mail
+PRO-1-80;Please verify your email;Por favor verifique seu email;Verifieer uw e-mail
+PRO-1-90;Resend verification Email;Reenviar email de verificação;Verzend de verificatie-e-mail opnieuw
+PRO-2-00;Change your phone number;Mudar o numero de telefone;Verander je telefoonnummer
+PRO-2-10;Fill and confirm your new phone number so you can login with your updated phone number.;Aplique e confirme seu novo telefone para poder logar com o mesmo;Vul en bevestig uw nieuwe telefoonnummer zodat u kunt inloggen met uw bijgewerkte telefoonnummer.
+PRO-2-20;This action cannot be undone;Esta ação não pode ser desfeita;Deze actie kan niet ongedaan gemaakt worden
+PRO-2-30;Phone number;Numero do telefone;Telefoonnummer
+PRO-2-40;Save Changes;Salvar mudanças;Wijzigingen opslaan
+PRO-3-00;Change your phone number;Mudar o numero de telefone;Verander je telefoonnummer
+PRO-3-10;Enter the 7 digit code we sent you in na sms to;Entre o código de 7 digitos enviados via SMS para ;Voer de 7-cijferige code in die we u in een sms naar u hebben gestuurd
+PRO-3-20;Wrong number?;Numero errado?;Verkeerd nummer?
+PRO-3-30;SMS code;código SMS;SMS-code
+PRO-3-40;Save Changes;Salvar mudanças;Wijzigingen opslaan
+PRO-4-00;FAQ;FAQ;FAQ
+PRO-4-10;All frequently asked questions;Todas as perguntas frequentes;Allemaal veel gestelde vragen
+PRO-4-20;Which banks are connected with paynote;Quais bancos estão conectados com Paynote?;Welke banken zijn verbonden met paynote
+PRO-4-30;How can I contact paynote?;Como posso contactar paynote?;Hoe kan ik contact opnemen met Paynote?
+PRO-4-40;What you do with my data?;O que fazem com meus dados?;Wat doe je met mijn gegevens?
+PRO-4-50;How dows paynote make money?;Como paynote ganha dinheiro?;Hoe verdien je geld met een bankbiljet?
+PRO-4-60;How I can delete my account;Como deletar minha conta?;Hoe ik mijn account kan verwijderen
+PRO-4-70;How can I change my phone number?;Como mudar meu numero de telefone?;Hoe kan ik mijn telefoonnummer wijzigen?
+PRO-4-80;How does paynote protect my user data?;Como paynote usa meus dados;Hoe beschermt Paynote mijn gebruikersgegevens?
+PRO-4-90;What is the category 'transfer'?;O que é a categoria 'transferencia'?;Wat is de categorie 'overboeking'?
+PRO-4-A0;What is the category 'exclude'?;O que é a categoria 'excluir'?;Wat is de categorie 'uitsluiten'?
+PRO-5-00;Settings;Configurações;Instellingen
+PRO-5-01;Profile;Perfil;Profiel
+PRO-5-10;All your account settings;Todas as configurações da sua conta;Al uw accountinstellingen
+PRO-5-20;Notifications;Notificações;Meldingen
+PRO-5-30;Language and Currency;Linguagem e moeda;Taal en valuta
+PRO-5-40;Appearence;Aparência;Verschijning
+PRO-5-50;Access Code;Código de Acesso;Toegangscode
+PRO-5-60;About Paynote;Sobre Paynote;Over Paynote
+PRO-5-70;Delete account;Deletar conta;Account verwijderen
+PRO-5-80;Version ;Versão;Versie
+PRO-6-00;Notifications;Notificações;Meldingen
+PRO-6-10;New uncathegorised expenses;Novos gastos não categorizados;Nieuwe niet-geaccordeerde uitgaven
+PRO-6-20;New expense without receipt;Novo gasto sem nota fiscal;Nieuwe uitgave zonder ontvangstbewijs
+PRO-6-30;New income;Nova renda;Nieuw inkomen
+PRO-6-40;A budget has reached 50%;Um orçamento alcançou 50%;Een budget heeft 50% bereikt
+PRO-6-50;A budget has reached 100%;Um orçamento alcançou 100%;Een budget heeft 100% bereikt
+PRO-6-60;Monthly income vs outgoing sum;Ganho mensal contra gastos;Maandelijks inkomen versus uitgaande som
+PRO-6-70;First of every month;Todo dia primeiro;Eerste van elke maand
+PRO-6-80;Weekly expenses sum;Resultados semanais;Wekelijkse onkostensom
+PRO-6-90;Every Sunday evening;Todo domingo de manhã;Elke zondagavond
+PRO-6-A0;Daily balance sum;Resultados diários;Dagelijks saldo
+PRO-6-B0;Every evening;Toda manhã;Elke avond
+PRO-7-00;Privacy;Privacidade;Privacy
+PRO-7-10;Marketing emails;Emails de marketing;Marketing-e-mails
+PRO-7-20;I want to receive marketing emails that interest me;Eu quero receber emails que me interessam;Ik wil marketing-e-mails ontvangen die mij interesseren
+PRO-7-30;Social media & advertising;Redes Sociais e Propagandas;Social media en reclame
+PRO-7-40;I'm okay with paynote sharing my personal data for advertising of the APP.;Eu concordo em ter minha informação utilizada para propagandas do aplicativo;Ik vind het prima dat Paynote mijn persoonlijke gegevens deelt voor reclame voor de APP.
+PRO-7-50;Updates;Updates;Updates
+PRO-7-60;I want to get updates about new features and changes;Eu quero receber novidades sobre novas funcionalidades e mudanças;Ik wil updates ontvangen over nieuwe functies en wijzigingen
+PRO-7-70;Save Changes;Salvar mudanças;Wijzigingen opslaan
+PRO-8-00;Appearence;Aparência;Verschijning
+PRO-8-10;Follow iOS;Seguir iOS;Volg iOS
+PRO-8-20;Darkmode;Modo escuro;Donkere modus
+PRO-8-30;Save Changes;Salvar mudanças;Wijzigingen opslaan
+PRO-9-00;Language and Currency;Linguagem e moeda;Taal en valuta
+PRO-9-10;Currency;Moeda;Valuta
+PRO-9-20;Language;Linguagem;Taal
+PRO-9-30;Save Changes;Salvar mudanças;Wijzigingen opslaan
+PRO-A-00;Access Code;Código de Acesso;Toegangscode
+PRO-A-10;Pincode;Codigo PIN;Pincode
+PRO-A-20;[Biometric];Biometria;[Biometrisch]
+PRO-A-30;Save Changes;Salvar mudanças;Wijzigingen opslaan
+PRO-A-40;Choose a pincode;Escolha um codigo pin;Kies een pincode
+PRO-A-50;Repeat pincode;Repita o seu pin;Herhaal de pincode
+PRO-A-51;pin does not match, please repeat the process;Pin não equivalente, por favor repita o processo;pin komt niet overeen, herhaal het proces
+PRO-A-60;To make sure you never get locked out set a pincode other than biometric;Para ter certeza que nunca perderá acesso escolha um codigo pin além da biometria;Om ervoor te zorgen dat u nooit buitengesloten wordt, stelt u een andere pincode in dan biometrisch
+PRO-B-00;About Paynote;Sobre Paynote;Over Paynote
+PRO-B-10;You will be notified if there is a change in policy or business operation;Você será notificado se tivermos quaisquer mudanças em nossas politicas ou modelo de negócios;U krijgt bericht als er een wijziging is in het beleid of de bedrijfsvoering
+PRO-B-20;Privacy statement;Acordo de Privacidade;Privacyverklaring
+PRO-B-30;Version ;Versão;Versie
+PRO-C-00;Terms & Conditions;Termos e Condições;algemene voorwaarden
+PRO-C-10;Last updated on mo 2 jan 2020;Atualizado dia Seg 2 janeiro 2020;Laatst bijgewerkt op ma 2 jan 2020
+PRO-C-20;Accepting;Aceitando;Accepteren
+PRO-C-30;Changes in terms;Mudanças de termos;Veranderingen in termen
+PRO-C-40;Using our product;Usando o nosso produto;Ons product gebruiken
+PRO-C-50;General restrictions;Restrições gerais;Algemene beperkingen
+PRO-C-60;Liability policy;Politicas de culpabilidade;Aansprakelijkheidsbeleid
+PRO-C-70;Your rights;Seus direitos;Jou rechten
+PRO-C-80;General legal terms;Termos legais;Algemene juridische voorwaarden
+PRO-D-00;Privacy statement;Declaração de privacidade;Privacyverklaring
+PRO-D-10;Last updated on mo 2 jan 2020;Atualizado dia Seg 2 janeiro 2020;Laatst bijgewerkt op ma 2 jan 2020
+PRO-D-20;Accepting;Aceitando;Accepteren
+PRO-D-30;Changes in terms;Mudanças de termos;Veranderingen in termen
+PRO-D-40;Using our product;Usando o nosso produto;Ons product gebruiken
+PRO-D-50;General restrictions;Restrições gerais;Algemene beperkingen
+PRO-D-60;Liability policy;Politicas de culpabilidade;Aansprakelijkheidsbeleid
+PRO-D-70;Your rights;Seus direitos;Jou rechten
+PRO-D-80;General legal terms;Termos legais;Algemene juridische voorwaarden
+MEN-0-00;Home;Home;Huis
+MEN-0-01;Insights;Insights;Inzichten
+MEN-0-02;Accounts;Contas;Accounts
+HOM-0-00;Goodafternoon,;Boa tarde;Goedenmiddag,
+HOM-0-10;You have no accounts yet;Você não tem contas ainda;U heeft nog geen accounts
+HOM-0-20;When you are ready, connect your first account to start with paynote;Quando estiver pronto, conecte sua conta e comece com paynote;Als u klaar bent, sluit u uw eerste account aan om met paynote te beginnen
+HOM-0-30;Add a new bank account;Add a new bank account;Voeg een nieuwe bankrekening toe
+HOM-1-00;Turn on notifications to get the most out of paynote;Ative notificações para ter a melhor experiencia paynote;Schakel meldingen in om het meeste uit paynote te halen
+HOM-1-10;Enable notifications for paynote so we can help you stay on track with badges, alerts or notifications!;;Schakel notificaties in voor paynote zodat we je kunnen helpen op koers te blijven met badges, alerts of notificaties!
+HOM-1-20;Customize which notifications you want to receive in your profile;Customize suas notificações que deseja reeber no perfil;Pas aan welke meldingen u in uw profiel wilt ontvangen
+HOM-1-30;Allow notifications;Autorizar notificações;Meldingen toestaan
+HOM-1-40;not now;Agora não;niet nu
+HOM-2-00;Goodafternoon,;Boa tarde;Goedenmiddag,
+HOM-2-10;Today;Hoje;Vandaag
+HOM-2-11;This week;Esta semana;Deze week
+HOM-2-12;Custom ;Personalizado;Op maat
+HOM-2-20;Current Balance;Saldo atual;Huidig ??saldo
+HOM-2-30;Recurring Costs;Custos recorrentes;Terugkerende kosten
+HOM-2-40;Spendable income;Saldo atual;Besteedbaar inkomen
+HOM-2-50;Expected & Spending;Esperado e gastos;Verwacht en uitgaven
+HOM-2-51;What if...;E se...;Wat nou als...
+HOM-2-60;Ongoing goals;Objetivos atuais;Lopende doelen
+HOM-2-70;Last transactions;Ultimas transações;Laatste transacties
+HOM-2-80;Spend;Gastos;Besteden
+HOM-2-00;Recurring costs;Custos recorrentes;Terugkerende kosten
+HOM-2-10;Day;Dia;Dag
+HOM-2-11;Week;Semana;Week
+HOM-2-12;Month;Mês;Maand
+HOM-2-20;Spend;Gastos;Besteden
+HOM-2-30;What is this?;O que é isso?;Wat is dit?
+HOM-3-00;Spending;Gastos;Uitgaven
+HOM-3-10;Day;Dia;Dag
+HOM-3-11;Week;Semana;Week
+HOM-3-12;Month;Mês;Maand
+HOM-3-20;Spend;Gastos;Besteden
+HOM-3-30;What is this?;O que é isso?;Wat is dit?
+HOM-4-00;Expected expenses;Despesas esperadas;Verwachte uitgaven
+HOM-4-10;Day;Dia;Dag
+HOM-4-11;Week;Semana;Week
+HOM-4-12;Month;Mês;Maand
+HOM-4-20;Expected;Esperado;Verwacht
+HOM-4-30;Whi is this expected?;O que é esperado?;Waar wordt dit verwacht?
+HOM-4-40;What does this mean for me?;O que isso significa para mim?;Wat betekent dit voor mij?
+HOM-4-50;How my spendable income is calculated?;Como minha renda para gastos é calculada?;Hoe wordt mijn besteedbaar inkomen berekend?
+HOM-5-00;What if...;E se...;Wat nou als...
+HOM-5-10;Get a new prediction on your average daily spendable income untill your set salary period;Receba uma nova projeção no seu gasto médio diário.;Krijg een nieuwe voorspelling van uw gemiddelde dagelijkse besteedbare inkomen tot aan uw vastgestelde salarisperiode
+HOM-5-20;If I spend;Se eu gastar.;Als ik geld uitgeef
+HOM-5-30;today;Hoje;vandaag
+HOM-5-40;perday is set at salary period;Por dia em um periodo pré estabelecido;perday is vastgesteld op salarisperiode
+HOM-5-50;Change Salary period;Mudar o período de salario;Salarisperiode wijzigen
+HOM-5-60;How is this calculated?;Como isso é calculado?;Hoe wordt dit berekend?
+HOM-5-70;Calculating recurring costs;Calculando gastos recorrentes;Doorlopende kosten berekenen
+HOM-5-80;Calculate;Calcular;Berekenen
+HOM-5-90;I can spend;Eu posso gastar;Ik kan uitgeven
+HOM-5-A0;Per day;Por dia;Per dag
+HOM-5-A1;days left;dias;dagen over
+HOM-5-B0;Try again;Tentar de novo;Probeer het opnieuw
+HOM-6-00;What if...;E se...;Wat nou als...
+HOM-6-10;Get a new prediction on your average daily spendable income untill your set salary period;Receba uma nova projeção no seu gasto médio diário.;Krijg een nieuwe voorspelling van uw gemiddelde dagelijkse besteedbare inkomen tot aan uw vastgestelde salarisperiode
+HOM-6-20;Salary period;Periodo de salário;Salarisperiode
+HOM-6-30;Monthly break;Mensal;Maandelijkse pauze
+HOM-6-40;We calculate from and till this date;Calcularemos até esta data;We rekenen vanaf en tot deze datum
+HOM-6-50;Calendar period;Calendario;Kalenderperiode
+HOM-6-60;We calculate from the first of a month;Calculamos a partir do dia primeiro de todo mês;We rekenen vanaf de eerste van een maand
+HOM-6-70;Custom;Customizado;Op maat
+HOM-6-80;Set for weekly or custom period;Aplique semanal ou período customizado;Stel in voor wekelijkse of aangepaste periode
+HOM-6-90;Save changes;Salvar mudanças;Wijzigingen opslaan
+HOM-6-A0;Cancel;Cancelar;annuleren
+HOM-7-00;Filter & widgets;Filtros e widgets;Filter en widgets
+HOM-7-10;Add and organize your widgets;Adicione e organize seus widgets;Voeg uw widgets toe en organiseer ze
+HOM-7-20;Salary period;Periodo salarial;Salarisperiode
+HOM-7-21;Monthly break;Mensal;Maandelijkse pauze
+HOM-7-30;Home page ;Home page;Startpagina
+HOM-7-40;Insights;Projeções;Inzichten
+HOM-7-50;Expected & spending;Esperado e gastos;Verwacht en uitgaven
+HOM-7-60;Biggest expenses;Maiores gastos;Grootste kosten
+HOM-7-70;Budgets;Orçamentos;Budgetten
+HOM-7-80;Widget4;Widget4;Widget4
+HOM-7-90;Widget5;Widget5;Widget5
+HOM-7-A0;Save;Salvar;Sparen
+ACC1-0-00;Accounts;Contas;Accounts
+ACC1-0-10;bank accounts;contas bancárias;bankrekeningen
+ACC1-0-00;Filter & widgets;Filtros e widgets;Filter en widgets
+ACC1-0-10;Set your standard monthly break or choose visible bank accounts;Salve seu período salarial padrão ou escolha as contas bancárias visiveis;Stel uw standaard maandelijkse pauze in of kies voor zichtbare bankrekeningen
+ACC1-0-20;Salary period;Periodo salarial;Salarisperiode
+ACC1-0-30;bank accounts;contas bancárias;bankrekeningen
+ACC1-0-40;Insights;Projeções;Inzichten
+ACC1-0-50;Save;Salvar;Sparen
+ACC1-1-00;Recurring Costs;Custos recorrentes;Terugkerende kosten
+ACC1-1-01;all accounts;todas as contas;alle accounts
+ACC1-1-10;Per month;por mês;Per maand
+ACC1-1-11;Per year;por ano;Per jaar
+ACC1-2-20;I'm missing something;Algo está faltando;Ik mis iets
+ACC1-2-30;Removed as recurring costs;Custos recorrentes removidos;Verwijderd als terugkerende kosten
+ACC1-3-00;Transactions;Transações;Transacties
+ACC1-3-01;all accounts;Todas as contas;alle accounts
+ACC1-3-10;Search;Procurar;Zoeken
+ACC1-3-20;Today;Hoje;Vandaag
+ACC1-3-30;Yesterday;Ontem;Gisteren
+ACC1-4-00;More details;Mais detalhes;Meer details
+ACC1-4-10;Add a note;Adicionar uma nota;Voeg een notitie toe
+ACC1-4-20;This is reimbursed;Isso foi reembolsado;Dit wordt vergoed
+ACC1-4-30;Add a receipt;Adicionar uma nota fiscal;Voeg een bon toe
+SIN-0-00;Connect all your bank accounts;Conecte todas as suas contas Bancárias;Verbind al uw bankrekeningen
+SIN-0-10;Any bank! Shared account? Add them too and manage them together!;Qualquer banco ou conta conjunta! Adicione todas as suas contas e cuide delas em um só lugar;Elke bank! Gedeeld account? Voeg ze ook toe en beheer ze samen!
+SIN-0-20;Sign up;Registrar-se;Aanmelden
+SIN-0-30;Login;Entrar;Log in
+SIN-1-00;Get insights on your Spending;Ganhe observações em seus gastos;Krijg inzicht in uw uitgaven
+SIN-1-10;Find your fixed expenses and get na overview of your patterns. We will help you find patterns and smart savers;Encontre seus gastos recorrentes e tenha uma visão geral de seus padrões. Nos ajudaremos a encontra-los e economias inteligentes!;Vind uw vaste lasten en krijg een overzicht van uw patronen. We helpen je patronen en slimme spaarders te vinden
+SIN-1-20;SIN-0-20;SIN-0-20;SIN-0-20
+SIN-1-30;SIN-0-30;SIN-0-30;SIN-0-30
+SIN-2-00;Set goals and we will support you;Aplique objetivos e vamos lhe ajudar!;Stel doelen en wij zullen u ondersteunen
+SIN-2-10;Save money by setting goals and get advice! And why not set financial goals together?;Economise colocando seus objetivos e recebendo conselhos! Por que não colocar os objetivos em conjunto?;Bespaar geld door doelen te stellen en advies in te winnen! En waarom zouden we niet samen financi�le doelen stellen?
+SIN-2-20;SIN-0-20;SIN-0-20;SIN-0-20
+SIN-2-30;SIN-0-30;SIN-0-30;SIN-0-30
+SIN-3-00;Manage your access;Organize seu acesso ;Beheer uw toegang
+SIN-3-10;Choose how you want to protect account access and manage security settings;Escolha como você quer proteger sua conta e gerenciar suas configurações de segurança;Kies hoe u de accounttoegang wilt beschermen en de beveiligingsinstellingen wilt beheren
+SIN-3-20;Choose a pincode;Escolha um código pin;Kies een pincode
+SIN-3-21;Repeat your pincode;Repita seu pin;Herhaal uw pincode
+SIN-3-30;Use biometric;Use biometria;Gebruik biometrische
+SIN-3-40;Save access code;Salvar código de acesso;Bewaar toegangscode
+SIN-3-50;I don't want to set na access restriction;Eu não quero aplicar uma restrição de acesso;Ik wil geen toegangsbeperking instellen
+SIN-3-60;Incorrect code. Please try again;Incorrect code, please try again.;Foute code. Probeer het a.u.b. opnieuw
+SIN-4-00;Keep it together with Paynote;Mantenha-se organizado com Paynote;Bewaar het samen met Paynote
+SIN-4-10;Spending money comfortably with duly budgetting.;Gaste confortávelmente com orçamentos formados.;Comfortabel geld uitgeven met gepaste budgettering.
+SIN-4-20;SIN-0-20;SIN-0-20;SIN-0-20
+SIN-4-30;SIN-0-30;SIN-0-30;SIN-0-30
+SIN-5-00;Get started with paynote;Comece agora com Paynote;Ga aan de slag met Paynote
+SIN-5-10;Create your profile by entering your name and add an optional profile picture;Crie seu perfil ;Maak uw profiel door uw naam in te voeren en een optionele profielfoto toe te voegen
+SIN-5-20;Add photo;Foto;Voeg foto toe
+SIN-5-21;Name;Nome;Naam
+SIN-5-22;Surname;Sobrenome;Achternaam
+SIN-5-23;Optional;Opcional;Optioneel
+SIN-5-30;By creating an account I accept the terms of use for paynote ;Ao criar uma conta eu aceito os termos de uso de Paynote;Door een account aan te maken, ga ik akkoord met de gebruiksvoorwaarden voor paynote
+SIN-5-40;Next;Proximo;De volgende
+SIN-5-50;Please accept the terms;Por favor aceite os termos;Accepteer de voorwaarden
+SIN-6-00;Secure your account;Tenha segurança na sua conta;Beveilig je account
+SIN-6-10;Plase confirm your country code, paynote will verify your phone number;Confirme seu código nacional, paynote irá confirmar seu telefone;Bevestig uw landcode, Paynote verifieert uw telefoonnummer
+SIN-6-20;Phone number;Numero de telefone;Telefoonnummer
+SIN-6-30;Send Code;Enviar código;Code verzenden
+SIN-7-00;Secure your account;Proteja sua conta;Beveilig je account
+SIN-7-10;Enter the 7 digit code we sent via sms message to ;Entre o código de 7 digitos enviado para;Voer de 7-cijferige code in die we via sms hebben verzonden
+SIN-7-20;Wrong number?;Número errado?;Verkeerd nummer?
+SIN-7-30;Incorrect code, we sent you a new sms with a new cod. Please try again;Código incorreto, nós enviamos um novo código, por favor tente novamente;Onjuiste code, we hebben je een nieuwe sms gestuurd met een nieuwe kabeljauw. Probeer het a.u.b. opnieuw
+SIN-7-40;Resent code;Reenviar código;Code opnieuw verzenden
+SIN-8-00;You're ready to start!;Você está pronto para começar!;U bent klaar om te beginnen!
+SIN-8-10 ;Connect your first account to start with paynote!;Conecte sua primeira conta e comece com Paynote!;Koppel uw eerste account om te beginnen met Paynote!
+SIN-8-20;Add a bank account;Adicionar conta bancária;Voeg een bankrekening toe
+SIN-8-30;I want to skip this for now;Eu quero pular esta etapa por enquanto;Ik wil dit voorlopig overslaan
+SIN-9-00;Welcome Back;Bem vinde de volta;Welkom terug
+SIN-9-10;Lets get into your account;Vamos acessar sua conta;Laten we in uw account komen
+SIN-9-20;Phone number;Numero de telefone;Telefoonnummer
+SIN-9-30;Send Code;Enviar código;Code verzenden
+SIN-9-40;I've got a new phone number;Eu tenho um novo numero de telefone;Ik heb een nieuw telefoonnummer
+SIN-A-00;Hi;Olá;Hoi
+SIN-A-10;Log in with your security code;Acesse com seu código de segurança;Log in met uw beveiligingscode
+SIN-A-20;Incorrect code, please try again;Codigo incorreto, por favor tente novamente.;Onjuiste code, probeer het opnieuw
+SIN-A-30;Forgot your pincode?;Esqueceu seu pin?;Bent u uw pincode vergeten?
+LOA-0-00;Loading...;Carregando...;Bezig met laden...
+LOA-0-10;We are trying to make this super fast;Nós estamos tentando fazer isso super rápido;We proberen dit supersnel te maken
+LOA-1-00;Yay, you are back in!;Yay! Você está logado;Ja, je bent er weer!
+LOA-1-10;you are ready to continue;está pronto para continuar;je bent klaar om verder te gaan
+LOA-2-00;Yay, account secured;Yay! Conta segura;Ja, account beveiligd
+LOA-2-10;Lets finish setting you up;Vamos terminar de configurar;Laten we klaar zijn met het opzetten van je
+LOA-2-20;Continue;Continuar;Doorgaan met
+LOA-3-00;Oops, something went wrong.;Opa, algo deu errado;Oeps! Er is iets misgegaan.
+LOA-3-10;We will send a new code and try again;Nós enviaremos um novo código e tentaremos de novo;We sturen een nieuwe code en proberen het opnieuw
+LOA-3-20;Try again;Tentar novamente.;Probeer het opnieuw
+LOA-4-00;Building...;Building...;Gebouw...
+LOA-4-10;we are getting your transactions...;Estamos coletando suas transações...;we krijgen uw transacties...
+INS-0-00;Insights;Insights;Inzichten
+INS-0-10;You have no accounts yet;Você ainda não tem contas;U heeft nog geen accounts
+INS-0-20;When youre ready connect your first account to start with paynote;Quando estiver pronte conecte seu banco para começar com Paynote;Als je klaar bent, sluit je je eerste account aan om met paynote te beginnen
+INS-0-30;Add a new bank account;Adicionar nova conta bancária;Voeg een nieuwe bankrekening toe
+INS-1-00;Insights;Insights;Inzichten
+INS-1-01;Salary Period;Periodo salarial;Salarisperiode
+INS-1-10;Month;Mês;Maand
+INS-1-11;6 months;6 meses;6 maanden
+INS-1-12;year;Ano;jaar
+INS-1-13;Custom;Customizado;Op maat
+INS-1-20;Income;Renda;Inkomen
+INS-1-30;Expenses;Despesas;Uitgaven
+INS-1-40;Deficiency;Deficiencias;Tekort
+INS-1-50;Biggest expenses;Maiores despesas;Grootste kosten
+INS-1-60;Budgets;Orçamentos;Budgetten
+INS-2-00;Incoming;Rendas;Inkomend
+INS-2-01;Salary Period;Periodo salarial;Salarisperiode
+INS-2-10;Month;Mês;Maand
+INS-2-11;6 months;6 meses;6 maanden
+INS-2-12;Year;Ano;Jaar
+INS-2-13;Custom;Customizado;Op maat
+INS-2-20;Income;Renda;Inkomen
+INS-2-30;Average per month;Media mensal;Gemiddeld per maand
+INS-2-40;m;m;m
+INS-2-50;total;total;totaal
+INS-3-00;Outgoing;Saidas;Uitgaand
+INS-3-01;Salary Period;Periodo salarial;Salarisperiode
+INS-3-10;Month;Mês;Maand
+INS-3-11;6 months;6 meses;6 maanden
+INS-3-12;year;Ano;jaar
+INS-3-13;Custom;Customizado;Op maat
+INS-3-20;Expense;Gasto;Kosten
+INS-4-00;Deficiency;Deficiencias;Tekort
+INS-4-01;Salary Period;Periodo salarial;Salarisperiode
+INS-4-10;Month;Mês;Maand
+INS-4-11;6 months;6 meses;6 maanden
+INS-4-12;year;Ano;jaar
+INS-4-13;Custom;Customizado;Op maat
+INS-4-20;Deficiency;Deficiencia;Tekort
+INS-5-00;Categories;Categorias;Categorie�n
+INS-5-01;Salary Period;Periodo salarial;Salarisperiode
+INS-5-10;Check & correct these transactions;Cheque e corrija estas transações;Controleer en corrigeer deze transacties
+INS-5-11;Start;Comece;Begin
+INS-5-20;categorized transactions;Transações categorizadas;gecategoriseerde transacties
+INS-6-00;Budgets;Orçamentos;Budgetten
+INS-6-10;Make a plan to stay on corse;Faça um plano para ficar nos trilhos!;Maak een plan om op corse te blijven
+INS-6-20;Set budgets for your categories;Aplique orçamentos para as suas categorias;Stel budgetten in voor uw categorie�n
+INS-6-21;Start;Comece;Begin
+INS-7-00;Filter your insights;Filtre seus insights;Filter uw inzichten
+INS-7-10;Select bank accounts you want to include or exclude from the data charts;Selecione suas contas bancarias que você quer incluir ou excluir dos dados e gráficos;Selecteer bankrekeningen die u wilt opnemen in of uitsluiten van de datadiagrammen
+INS-7-20;Save Selection;Salvar seleção;Selectie opslaan
+ACC-0-00;Accounts;Contas Bancárias;Accounts
+ACC-0-10;You have no accounts yet;Você ainda não possui contas bancárias;U heeft nog geen accounts
+ACC-0-20;When you're ready connect your first account to start with paynote;Quando estiver pronto conecte sua primeira conta para começar com paynote;Als u klaar bent, koppelt u uw eerste account om met paynote te beginnen
+ACC-0-30;Add a new bank account;Adicione uma nova conta bancária;Voeg een nieuwe bankrekening toe
+ACC-1-00;Select your bank;Selecione seu banco;Selecteer uw bank
+ACC-1-10;Search;Procure;Zoeken
+ACC-1-20;Connect;Conectar;Aansluiten
+ACC-2-00;Redirtect to chosen bank to log in and approve connection;Redirecionando para o banco escolhido par aprovar a conexão;Redirtect naar de gekozen bank om in te loggen en de verbinding goed te keuren
+ACC-3-00;Conecting...;Conectando...;Aansluiten ...
+ACC-3-10;We are trying to make this super fast while securely categorizing your transactions;Estamos fazendo o melhor para fazer isto ser super rapido e seguro.;We proberen dit supersnel te maken terwijl we uw transacties veilig categoriseren
+ACC-4-00;Yay, it worked!;Isso ai! Funcionou!;Ja, het werkte!
+ACC-4-10;is connected;Está conectado;is verbonden
+ACC-5-00;Choose the account name;Escolha o nome da conta;Kies de accountnaam
+ACC-5-10;Tip:Name the account according to how you use it or who owns it;Dica: Nomeie a conta de acordo com como é usada ou quem a usa;Tip: geef het account een naam op basis van hoe u het gebruikt of van wie het is
+ACC-5-20;Account Name;Nome da Conta;Gebruikersnaam
+ACC-5-30;Save account;Salvar conta;Account opslaan
+ACC-6-00;Accounts;Contas;Accounts
+ACC-6-10;bank accounts;Contas Bancárias;bankrekeningen
+ACC-6-20;Accounts;Contas;Accounts
+ACC-6-30;bank accounts;Contas Bancárias;bankrekeningen
+ACC-6-40;bank account deleted;Conta Bancária deletada;bankrekening verwijderd
+ACC-6-50;undo;desfazer;ongedaan maken

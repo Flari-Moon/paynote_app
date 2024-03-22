@@ -1,0 +1,347 @@
+ ;EN-US;PT-BR
+PRO-0-00;Edit Profile;Editar Perfil
+PRO-0-10;Web/Desktop;Web/Desktop
+PRO-0-20;Setting;Configurações
+PRO-0-30;Premium;Premium
+PRO-0-40;Try 2 weeks for free!;Teste 2 semanas gratuitamente!
+PRO-0-50;FAQ;FAQ
+PRO-0-60;Give us feedback;Nos de feedback
+PRO-0-70;Log out;Sair da conta
+PRO-0-80;Verify your email;Verifique seu email
+PRO-0-90;Please confirm;Por favor confirme
+PRO-1-00;Edit your profile;Edite seu perfil
+PRO-1-10;Name;Nome
+PRO-1-20;Surname;Sobrenome
+PRO-1-30;Phone number;Numero do telefone
+PRO-1-40;Email;Email
+PRO-1-50;Date of birth;Data de nascimento
+PRO-1-60;Save Changes;Salvar mudanças
+PRO-1-70;We will send you a verification email;Nós lhe enviaremos um email de verificação
+PRO-1-80;Please verify your email;Por favor verifique seu email
+PRO-2-00;Change your phone number;Mudar o numero de telefone
+PRO-2-10;Fill and confirm your new phone number so you can login with your updated phone number.;Aplique e confirme seu novo telefone para poder logar com o mesmo
+PRO-2-20;This action cannot be undone;Esta ação não pode ser desfeita
+PRO-2-30;Phone number;Numero do telefone
+PRO-2-40;Save Changes;Salvar mudanças
+PRO-3-00;Change your phone number;Mudar o numero de telefone
+PRO-3-10;Enter the 7 digit code we sent you in na sms to;Entre o código de 7 digitos enviados via SMS para 
+PRO-3-20;Wrong number?;Numero errado?
+PRO-3-30;SMS code;código SMS
+PRO-3-40;Save Changes;Salvar mudanças
+PRO-4-00;FAQ;FAQ
+PRO-4-10;All frequently asked questions;Todas as perguntas frequentes
+PRO-4-20;Which banks are connected with paynote;Quais bancos estão conectados com Paynote?
+PRO-4-30;How can I contact paynote?;Como posso contactar paynote?
+PRO-4-40;What you do with my data?;O que fazem com meus dados?
+PRO-4-50;How dows paynote make money?;Como paynote ganha dinheiro?
+PRO-4-60;How I can delete my account;Como deletar minha conta?
+PRO-4-70;How can I change my phone number?;Como mudar meu numero de telefone?
+PRO-4-80;How does paynote protect my user data?;Como paynote usa meus dados
+PRO-4-90;What is the category 'transfer'?;"O que é a categoria ""transferencia""?"
+PRO-4-A0;What is the category 'exclude'?;"O que é a categoria ""excluir""?"
+PRO-5-00;Settings;Configurações
+PRO-5-10;All your account settings;Todas as configurações da sua conta
+PRO-5-20;Notifications;Notificações
+PRO-5-30;Language and Currency;Linguagem e moeda
+PRO-5-40;Appearence;Aparência
+PRO-5-50;Access Code;Código de Acesso
+PRO-5-60;About Paynote;Sobre Paynote
+PRO-5-70;Delete account;Deletar conta
+PRO-5-80;Version ;Versão
+PRO-6-00;Notifications;Notificações
+PRO-6-10;New uncathegorised expenses;Novos gastos não categorizados
+PRO-6-20;New expense without receipt;Novo gasto sem nota fiscal
+PRO-6-30;New income;Nova renda
+PRO-6-40;A budget has reached 50%;Um orçamento alcançou 50%
+PRO-6-50;A budget has reached 100%;Um orçamento alcançou 100%
+PRO-6-60;Monthly income vs outgoing sum;Ganho mensal contra gastos
+PRO-6-70;First of every month;Todo dia primeiro
+PRO-6-80;Weekly expenses sum;Resultados semanais
+PRO-6-90;Every Sunday evening;Todo domingo de manhã
+PRO-6-A0;Daily balance sum;Resultados diários
+PRO-6-B0;Every evening;Toda manhã
+PRO-7-00;Privacy;Privacidade
+PRO-7-10;Marketing emails;Emails de marketing
+PRO-7-20;I want to receive marketing emails that interest me;Eu quero receber emails que me interessam
+PRO-7-30;Social media & advertising;Redes Sociais e Propagandas
+PRO-7-40;I'm okay with paynote sharing my personal data for advertising of the APP.;Eu concordo em ter minha informação utilizada para propagandas do aplicativo
+PRO-7-50;Updates;Updates
+PRO-7-60;I want to get updates about new features and changes;Eu quero receber novidades sobre novas funcionalidades e mudanças
+PRO-7-70;Save Changes;Salvar mudanças
+PRO-8-00;Appearence;Aparência
+PRO-8-10;Follow iOS;Seguir iOS
+PRO-8-20;Darkmode;Modo escuro
+PRO-8-30;Save Changes;Salvar mudanças
+PRO-9-00;Language and Currency;Linguagem e moeda
+PRO-9-10;Currency;Moeda
+PRO-9-20;Language;Linguagem
+PRO-9-30;Save Changes;Salvar mudanças
+PRO-A-00;Access Code;Código de Acesso
+PRO-A-10;Pincode;Codigo PIN
+PRO-A-20;[Biometric];Biometria
+PRO-A-30;Save Changes;Salvar mudanças
+PRO-A-40;Choose a pincode;Escolha um codigo pin
+PRO-A-50;Repeat pincode;Repita o seu pin
+PRO-A-60;To make sure you never get locked out set a pincode other than biometric;Para ter certeza que nunca perderá acesso escolha um codigo pin além da biometria
+PRO-B-00;About Paynote;Sobre Paynote
+PRO-B-10;You will be notified if there is a change in policy or business operation;Você será notificado se tivermos quaisquer mudanças em nossas politicas ou modelo de negócios
+PRO-B-20;Privacy statement;Acordo de Privacidade
+PRO-B-30;Version ;Versão
+PRO-C-00;Terms & Conditions;Termos e Condições
+PRO-C-10;Last updated on mo 2 jan 2020;Atualizado dia Seg 2 janeiro 2020
+PRO-C-20;Accepting;Aceitando
+PRO-C-30;Changes in terms;Mudanças de termos
+PRO-C-40;Using our product;Usando o nosso produto
+PRO-C-50;General restrictions;Restrições gerais
+PRO-C-60;Liability policy;Politicas de culpabilidade
+PRO-C-70;Your rights;Seus direitos
+PRO-C-80;General legal terms;Termos legais
+PRO-D-00;Privacy statement;Declaração de privacidade
+PRO-D-10;Last updated on mo 2 jan 2020;Atualizado dia Seg 2 janeiro 2020
+PRO-D-20;Accepting;Aceitando
+PRO-D-30;Changes in terms;Mudanças de termos
+PRO-D-40;Using our product;Usando o nosso produto
+PRO-D-50;General restrictions;Restrições gerais
+PRO-D-60;Liability policy;Politicas de culpabilidade
+PRO-D-70;Your rights;Seus direitos
+PRO-D-80;General legal terms;Termos legais
+MEN-0-00;Home;Home
+MEN-0-01;Insights;Insights
+MEN-0-02;Accounts;Contas
+HOM-0-00;Goodafternoon,;Boa tarde
+HOM-0-10;You have no accounts yet;Você não tem contas ainda
+HOM-0-20;When you are ready, connect your first account to start with paynote;Quando estiver pronto, conecte sua conta e comece com paynote
+HOM-0-30;Add a new bank account;Add a new bank account
+HOM-1-00;Turn on notifications to get the most out of paynote;Ative notificações para ter a melhor experiencia paynote
+HOM-1-10;Enable notifications for paynote so we can help you stay on track with badges, alerts or notifications!;
+HOM-1-20;Customize which notifications you want to receive in your profile;Customize suas notificações que deseja reeber no perfil
+HOM-1-30;Allow notifications;Autorizar notificações
+HOM-1-40;not now;Agora não
+HOM-2-00;Goodafternoon,;Boa tarde
+HOM-2-10;Today;Hoje
+HOM-2-11;This week;Esta semana
+HOM-2-12;Custom ;Personalizado
+HOM-2-20;Current Balance;Saldo atual
+HOM-2-30;Recurring Costs;Custos recorrentes
+HOM-2-40;Spendable income;Saldo atual
+HOM-2-50;Expected & Spending;Esperado e gastos
+HOM-2-51;What if...;E se...
+HOM-2-60;Ongoing goals;Objetivos atuais
+HOM-2-70;Last transactions;Ultimas transações
+HOM-2-80;Spend;Gastos
+HOM-2-00;Recurring costs;Custos recorrentes
+HOM-2-10;Day;Dia
+HOM-2-11;Week;Semana
+HOM-2-12;Month;Mês
+HOM-2-20;Spend;Gastos
+HOM-2-30;What is this?;O que é isso?
+HOM-3-00;Spending;Gastos
+HOM-3-10;Day;Dia
+HOM-3-11;Week;Semana
+HOM-3-12;Month;Mês
+HOM-3-20;Spend;Gastos
+HOM-3-30;What is this?;O que é isso?
+HOM-4-00;Expected expenses;Despesas esperadas
+HOM-4-10;Day;Dia
+HOM-4-11;Week;Semana
+HOM-4-12;Month;Mês
+HOM-4-20;Expected;Esperado
+HOM-4-30;Whi is this expected?;O que é esperado?
+HOM-4-40;What does this mean for me?;O que isso significa para mim?
+HOM-4-50;How my spendable income is calculated?;Como minha renda para gastos é calculada?
+HOM-5-00;What if...;E se...
+HOM-5-10;Get a new prediction on your average daily spendable income untill your set salary period;Receba uma nova projeção no seu gasto médio diário.
+HOM-5-20;If I spend;Se eu gastar.
+HOM-5-30;today;Hoje
+HOM-5-40;perday is set at salary period;Por dia em um periodo pré estabelecido
+HOM-5-50;Change Salary period;Mudar o período de salario
+HOM-5-60;How is this calculated?;Como isso é calculado?
+HOM-5-70;Calculating recurring costs;Calculando gastos recorrentes
+HOM-5-80;Calculate;Calcular
+HOM-5-90;I can spend;Eu posso gastar
+HOM-5-A0;Per day;Por dia
+HOM-5-A1;days left;dias
+HOM-5-B0;Try again;Tentar de novo
+HOM-6-00;What if...;E se...
+HOM-6-10;Get a new prediction on your average daily spendable income untill your set salary period;Receba uma nova projeção no seu gasto médio diário.
+HOM-6-20;Salary period;Periodo de salário
+HOM-6-30;Monthly break;Mensal
+HOM-6-40;We calculate from and till this date;Calcularemos até esta data
+HOM-6-50;Calendar period;Calendario
+HOM-6-60;We calculate from the first of a month;Calculamos a partir do dia primeiro de todo mês
+HOM-6-70;Custom;Customizado
+HOM-6-80;Set for weekly or custom period;Aplique semanal ou período customizado
+HOM-6-90;Save changes;Salvar mudanças
+HOM-6-A0;Cancel;Cancelar
+HOM-7-00;Filter & widgets;Filtros e widgets
+HOM-7-10;Add and organize your widgets;Adicione e organize seus widgets
+HOM-7-20;Salary period;Periodo salarial
+HOM-7-21;Monthly break;Mensal
+HOM-7-30;Home page ;Home page
+HOM-7-40;Insights;Projeções
+HOM-7-50;Expected & spending;Esperado e gastos
+HOM-7-60;Biggest expenses;Maiores gastos
+HOM-7-70;Budgets;Orçamentos
+HOM-7-80;Widget4;Widget4
+HOM-7-90;Widget5;Widget5
+HOM-7-A0;Save;Salvar
+ACC1-0-00;Accounts;Contas
+ACC1-0-10;bank accounts;contas bancárias
+ACC1-0-00;Filter & widgets;Filtros e widgets
+ACC1-0-10;Set your standard monthly break or choose visible bank accounts;Salve seu período salarial padrão ou escolha as contas bancárias visiveis
+ACC1-0-20;Salary period;Periodo salarial
+ACC1-0-30;bank accounts;contas bancárias
+ACC1-0-40;Insights;Projeções
+ACC1-0-50;Save;Salvar
+ACC1-1-00;Recurring Costs;Custos recorrentes
+ACC1-1-01;all accounts;todas as contas
+ACC1-1-10;Per month;por mês
+ACC1-1-11;Per year;por ano
+ACC1-2-20;I'm missing something;Algo está faltando
+ACC1-2-30;Removed as recurring costs;Custos recorrentes removidos
+ACC1-3-00;Transactions;Transações
+ACC1-3-01;all accounts;Todas as contas
+ACC1-3-10;Search;Procurar
+ACC1-3-20;Today;Hoje
+ACC1-3-30;Yesterday;Ontem
+ACC1-4-00;More details;Mais detalhes
+ACC1-4-10;Add a note;Adicionar uma nota
+ACC1-4-20;This is reimbursed;Isso foi reembolsado
+ACC1-4-30;Add a receipt;Adicionar uma nota fiscal
+SIN-0-00;Connect all your bank accounts;Conecte todas as suas contas Bancárias
+SIN-0-10;Any bank! Shared account? Add them too and manage them together!;Qualquer banco ou conta conjunta! Adicione todas as suas contas e cuide delas em um só lugar
+SIN-0-20;Sign up;Registrar-se
+SIN-0-30;Login;Entrar
+SIN-1-00;Get insights on your Spending;Ganhe observações em seus gastos
+SIN-1-10;Find your fixed expenses and get na overview of your patterns. We will help you find patterns and smart savers;Encontre seus gastos recorrentes e tenha uma visão geral de seus padrões. Nos ajudaremos a encontra-los e economias inteligentes!
+SIN-1-20;SIN-0-20;SIN-0-20
+SIN-1-30;SIN-0-30;SIN-0-30
+SIN-2-00;Set goals and we will support you;Aplique objetivos e vamos lhe ajudar!
+SIN-2-10;Save money by setting goals and get advice! And why not set financial goals together?;Economise colocando seus objetivos e recebendo conselhos! Por que não colocar os objetivos em conjunto?
+SIN-2-20;SIN-0-20;SIN-0-20
+SIN-2-30;SIN-0-30;SIN-0-30
+SIN-3-00;Manage your access;Organize seu acesso 
+SIN-3-10;Choose how you want to protect account access and manage security settings;Escolha como você quer proteger sua conta e gerenciar suas configurações de segurança
+SIN-3-20;Choose a pincode;Escolha um código pin
+SIN-3-30;Use biometric;Use biometria
+SIN-3-40;Save access code;Salvar código de acesso
+SIN-3-50;I don't want to set na access restriction;Eu não quero aplicar uma restrição de acesso
+SIN-3-60;Incorrect code. Please try again;Incorrect code, please try again.
+SIN-4-00;Keep it together with Paynote;Mantenha-se organizado com Paynote
+SIN-4-10;Spending money comfortably with duly budgetting.;Gaste confortávelmente com orçamentos formados.
+SIN-4-20;SIN-0-20;SIN-0-20
+SIN-4-30;SIN-0-30;SIN-0-30
+SIN-5-00;Get started with paynote;Comece agora com Paynote
+SIN-5-10;Create your profile by entering your name and add an optional profile picture;Crie seu perfil 
+SIN-5-20;Add photo;Foto
+SIN-5-21;Name;Nome
+SIN-5-22;Surname;Sobrenome
+SIN-5-30;By creating an account I accept the terms of use for paynote ;Ao criar uma conta eu aceito os termos de uso de Paynote
+SIN-5-40;Next;Proximo
+SIN-5-50;Please accept the terms;Por favor aceite os termos
+SIN-6-00;Secure your account;Tenha segurança na sua conta
+SIN-6-10;Plase confirm your country code, paynote will verify your phone number;Confirme seu código nacional, paynote irá confirmar seu telefone
+SIN-6-20;Phone number;Numero de telefone
+SIN-6-30;Send Code;Enviar código
+SIN-7-00;Secure your account;Proteja sua conta
+SIN-7-10;Enter the 7 digit code we sent via sms message to ;Entre o código de 7 digitos enviado para
+SIN-7-20;Wrong number?;Número errado?
+SIN-7-30;Incorrect code, we sent you a new sms with a new cod. Please try again;Código incorreto, nós enviamos um novo código, por favor tente novamente
+SIN-7-40;Resent code;Reenviar código
+SIN-8-00;You're ready to start!;Você está pronto para começar!
+SIN-8-10 ;Connect your first account to start with paynote!;Conecte sua primeira conta e comece com Paynote!
+SIN-8-20;Add a bank account;Adicionar conta bancária
+SIN-8-30;I want to skip this for now;Eu quero pular esta etapa por enquanto
+SIN-9-00;Welcome Back;Bem vinde de volta
+SIN-9-10;Lets get into your account;Vamos acessar sua conta
+SIN-9-20;Phone number;Numero de telefone
+SIN-9-30;Send Code;Enviar código
+SIN-9-40;I've got a new phone number;Eu tenho um novo numero de telefone
+SIN-A-00;Hi;Olá
+SIN-A-10;Log in with your security code;Acesse com seu código de segurança
+SIN-A-20;Incorrect code, please try again;Codigo incorreto, por favor tente novamente.
+SIN-A-30;Forgot your pincode?;Esqueceu seu pin?
+LOA-0-00;Loading...;Carregando...
+LOA-0-10;We are trying to make this super fast;Nós estamos tentando fazer isso super rápido
+LOA-1-00;Yay, you are back in!;Yay! Você está logado
+LOA-1-10;you are ready to continue;está pronto para continuar
+LOA-2-00;Yay, account secured;Yay! Conta segura
+LOA-2-10;Lets finish setting you up;Vamos terminar de configurar
+LOA-2-20;Continue;Continuar
+LOA-3-00;Oops, something went wrong.;"Opa, algo deu errado;"
+LOA-3-10;We will send a new code and try again;Nós enviaremos um novo código e tentaremos de novo
+LOA-3-20;Try again;Tentar novamente.
+INS-0-00;Insights;Insights
+INS-0-10;You have no accounts yet;Você ainda não tem contas
+INS-0-20;When youre ready connect your first account to start with paynote;Quando estiver pronte conecte seu banco para começar com Paynote
+INS-0-30;Add a new bank account;Adicionar nova conta bancária
+INS-1-00;Insights;Insights
+INS-1-01;Salary Period;Periodo salarial
+INS-1-10;Month;Mês
+INS-1-11;6 months;6 meses
+INS-1-12;year;Ano
+INS-1-13;Custom;Customizado
+INS-1-20;Income;Renda
+INS-1-30;Expenses;Despesas
+INS-1-40;Deficiency;Deficiencias
+INS-1-50;Biggest expenses;Maiores despesas
+INS-1-60;Budgets;Orçamentos
+INS-2-00;Incoming;Rendas
+INS-2-01;Salary Period;Periodo salarial
+INS-2-10;Month;Mês
+INS-2-11;6 months;6 meses
+INS-2-12;Year;Ano
+INS-2-13;Custom;Customizado
+INS-2-20;Income;Renda
+INS-2-30;Average per month;Media mensal
+INS-2-40;m;m
+INS-2-50;total;total
+INS-3-00;Outgoing;Saidas
+INS-3-01;Salary Period;Periodo salarial
+INS-3-10;Month;Mês
+INS-3-11;6 months;6 meses
+INS-3-12;year;Ano
+INS-3-13;Custom;Customizado
+INS-3-20;Expense;Gasto
+INS-4-00;Deficiency;Deficiencias
+INS-4-01;Salary Period;Periodo salarial
+INS-4-10;Month;Mês
+INS-4-11;6 months;6 meses
+INS-4-12;year;Ano
+INS-4-13;Custom;Customizado
+INS-4-20;Deficiency;Deficiencia
+INS-5-00;Categories;Categorias
+INS-5-01;Salary Period;Periodo salarial
+INS-5-10;Check & correct these transactions;Cheque e corrija estas transações
+INS-5-11;Start;Comece
+INS-5-20;categorized transactions;Transações categorizadas
+INS-6-00;Budgets;Orçamentos
+INS-6-10;Make a plan to stay on corse;Faça um plano para ficar nos trilhos!
+INS-6-20;Set budgets for your categories;Aplique orçamentos para as suas categorias
+INS-6-21;Start;Comece
+INS-7-00;Filter your insights;Filtre seus insights
+INS-7-10;Select bank accounts you want to include or exclude from the data charts;Selecione suas contas bancarias que você quer incluir ou excluir dos dados e gráficos
+INS-7-20;Save Selection;Salvar seleção
+ACC-0-00;Accounts;Contas Bancárias
+ACC-0-10;You have no accounts yet;Você ainda não possui contas bancárias
+ACC-0-20;When you're ready connect your first account to start with paynote;Quando estiver pronto conecte sua primeira conta para começar com paynote
+ACC-0-30;Add a new bank account;Adicione uma nova conta bancária
+ACC-1-00;Select your bank;Selecione seu banco
+ACC-1-10;Search;Procure
+ACC-1-20;Connect;Conectar
+ACC-2-00;Redirtect to chosen bank to log in and approve connection;Redirecionando para o banco escolhido par aprovar a conexão
+ACC-3-00;Conecting...;Conectando...
+ACC-3-10;We are trying to make this super fast while securely categorizing your transactions;Estamos fazendo o melhor para fazer isto ser super rapido e seguro.
+ACC-4-00;Yay, it worked!;Isso ai! Funcionou!
+ACC-4-10;is connected;Está conectado
+ACC-5-00;Choose the account name;Escolha o nome da conta
+ACC-5-10;Tip:Name the account according to how you use it or who owns it;Dica: Nomeie a conta de acordo com como ÃƒÂ© usada ou quem a usa
+ACC-5-20;Account Name;Nome da Conta
+ACC-5-30;Save account;Salvar conta
+ACC-6-00;Accounts;Contas
+ACC-6-10;bank accounts;Contas Bancárias
+ACC-6-20;Accounts;Contas
+ACC-6-30;bank accounts;Contas Bancárias
+ACC-6-40;bank account deleted;Conta Bancária deletada
+ACC-6-50;undo;desfazer
+

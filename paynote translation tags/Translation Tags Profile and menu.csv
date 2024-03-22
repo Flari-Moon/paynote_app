@@ -1,0 +1,110 @@
+ ;EN-US;PT-BR
+PRO-0-00;Edit Profile;Editar Perfil
+PRO-0-10;Web/Desktop;Web/Desktop
+PRO-0-20;Setting;Configurações
+PRO-0-30;Premium;Premium
+PRO-0-40;Try 2 weeks for free!;Teste 2 semanas gratuitamente!
+PRO-0-50;FAQ;FAQ
+PRO-0-60;Give us feedback;Nos de feedback
+PRO-0-70;Log out;Sair da conta
+PRO-0-80;Verify your email;Verifique seu email
+PRO-0-90;Please confirm;Por favor confirme
+PRO-1-00;Edit your profile;Edite seu perfil
+PRO-1-10;Name;Nome
+PRO-1-20;Surname;Sobrenome
+PRO-1-30;Phone number;Numero do telefone
+PRO-1-40;Email;Email
+PRO-1-50;Date of birth;Data de nascimento
+PRO-1-60;Save Changes;Salvar mudanças
+PRO-1-70;We will send you a verification email;Nós lhe enviaremos um email de verificação
+PRO-1-80;Please verify your email;Por favor verifique seu email
+PRO-2-00;Change your phone number;Mudar o numero de telefone
+PRO-2-10;Fill and confirm your new phone number so you can login with your updated phone number.;Aplique e confirme seu novo telefone para poder logar com o mesmo
+PRO-2-20;This action cannot be undone;Esta ação não pode ser desfeita
+PRO-2-30;Phone number;Numero do telefone
+PRO-2-40;Save Changes;Salvar mudanças
+PRO-3-00;Change your phone number;Mudar o numero de telefone
+PRO-3-10;Enter the 7 digit code we sent you in na sms to;Entre o código de 7 digitos enviados via SMS para 
+PRO-3-20;Wrong number?;Numero errado?
+PRO-3-30;SMS code;código SMS
+PRO-3-40;Save Changes;Salvar mudanças
+PRO-4-00;FAQ;FAQ
+PRO-4-10;All frequently asked questions;Todas as perguntas frequentes
+PRO-4-20;Which banks are connected with paynote;Quais bancos estão conectados com Paynote?
+PRO-4-30;How can I contact paynote?;Como posso contactar paynote?
+PRO-4-40;What you do with my data?;O que fazem com meus dados?
+PRO-4-50;How dows paynote make money?;Como paynote ganha dinheiro?
+PRO-4-60;How I can delete my account;Como deletar minha conta?
+PRO-4-70;How can I change my phone number?;Como mudar meu numero de telefone?
+PRO-4-80;How does paynote protect my user data?;Como paynote usa meus dados
+PRO-4-90;What is the category 'transfer'?;"O que é a categoria ""transferencia""?"
+PRO-4-A0;What is the category 'exclude'?;"O que é a categoria ""excluir""?"
+PRO-5-00;Settings;Configurações
+PRO-5-10;All your account settings;Todas as configurações da sua conta
+PRO-5-20;Notifications;Notificações
+PRO-5-30;Language and Currency;Linguagem e moeda
+PRO-5-40;Appearence;Aparência
+PRO-5-50;Access Code;Código de Acesso
+PRO-5-60;About Paynote;Sobre Paynote
+PRO-5-70;Delete account;Deletar conta
+PRO-5-80;Version ;Versão
+PRO-6-00;Notifications;Notificações
+PRO-6-10;New uncathegorised expenses;Novos gastos não categorizados
+PRO-6-20;New expense without receipt;Novo gasto sem nota fiscal
+PRO-6-30;New income;Nova renda
+PRO-6-40;A budget has reached 50%;Um orçamento alcançou 50%
+PRO-6-50;A budget has reached 100%;Um orçamento alcançou 100%
+PRO-6-60;Monthly income vs outgoing sum;Ganho mensal contra gastos
+PRO-6-70;First of every month;Todo dia primeiro
+PRO-6-80;Weekly expenses sum;Resultados semanais
+PRO-6-90;Every Sunday evening;Todo domingo de manhã
+PRO-6-A0;Daily balance sum;Resultados diários
+PRO-6-B0;Every evening;Toda manhã
+PRO-7-00;Privacy;Privacidade
+PRO-7-10;Marketing emails;Emails de marketing
+PRO-7-20;I want to receive marketing emails that interest me;Eu quero receber emails que me interessam
+PRO-7-30;Social media & advertising;Redes Sociais e Propagandas
+PRO-7-40;I'm okay with paynote sharing my personal data for advertising of the APP.;Eu concordo em ter minha informação utilizada para propagandas do aplicativo
+PRO-7-50;Updates;Updates
+PRO-7-60;I want to get updates about new features and changes;Eu quero receber novidades sobre novas funcionalidades e mudanças
+PRO-7-70;Save Changes;Salvar mudanças
+PRO-8-00;Appearence;Aparência
+PRO-8-10;Follow iOS;Seguir iOS
+PRO-8-20;Darkmode;Modo escuro
+PRO-8-30;Save Changes;Salvar mudanças
+PRO-9-00;Language and Currency;Linguagem e moeda
+PRO-9-10;Currency;Moeda
+PRO-9-20;Language;Linguagem
+PRO-9-30;Save Changes;Salvar mudanças
+PRO-A-00;Access Code;Código de Acesso
+PRO-A-10;Pincode;Codigo PIN
+PRO-A-20;[Biometric];Biometria
+PRO-A-30;Save Changes;Salvar mudanças
+PRO-A-40;Choose a pincode;Escolha um codigo pin
+PRO-A-50;Repeat pincode;Repita o seu pin
+PRO-A-60;To make sure you never get locked out set a pincode other than biometric;Para ter certeza que nunca perderá acesso escolha um codigo pin além da biometria
+PRO-B-00;About Paynote;Sobre Paynote
+PRO-B-10;You will be notified if there is a change in policy or business operation;Você será notificado se tivermos quaisquer mudanças em nossas politicas ou modelo de negócios
+PRO-B-20;Privacy statement;Acordo de Privacidade
+PRO-B-30;Version ;Versão
+PRO-C-00;Terms & Conditions;Termos e Condições
+PRO-C-10;Last updated on mo 2 jan 2020;Atualizado dia Seg 2 janeiro 2020
+PRO-C-20;Accepting;Aceitando
+PRO-C-30;Changes in terms;Mudanças de termos
+PRO-C-40;Using our product;Usando o nosso produto
+PRO-C-50;General restrictions;Restrições gerais
+PRO-C-60;Liability policy;Politicas de culpabilidade
+PRO-C-70;Your rights;Seus direitos
+PRO-C-80;General legal terms;Termos legais
+PRO-D-00;Privacy statement;Declaração de privacidade
+PRO-D-10;Last updated on mo 2 jan 2020;Atualizado dia Seg 2 janeiro 2020
+PRO-D-20;Accepting;Aceitando
+PRO-D-30;Changes in terms;Mudanças de termos
+PRO-D-40;Using our product;Usando o nosso produto
+PRO-D-50;General restrictions;Restrições gerais
+PRO-D-60;Liability policy;Politicas de culpabilidade
+PRO-D-70;Your rights;Seus direitos
+PRO-D-80;General legal terms;Termos legais
+MEN-0-00;Home;Home
+MEN-0-01;Insights;Insights
+MEN-0-02;Accounts;Contas

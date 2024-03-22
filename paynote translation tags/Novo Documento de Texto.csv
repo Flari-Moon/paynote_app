@@ -1,0 +1,64 @@
+ACC10-01;;
+ACC10-11;;
+ACC10-21;;
+ACC11-01;;
+ACC11-11;;
+ACC12-01;;
+ACC13-01;;
+ACC13-11;;
+ACC14-01;;
+ACC14-11;;
+ACC15-01;;
+ACC15-11;;
+ACC15-21;;
+ACC15-31;;
+ACC20-01;;
+ACC20-11;;
+ACC21-01;;
+ACC21-11;;
+ACC21-21;;
+ACC21-22;;
+;;
+;;
+;;
+;;
+ACC30-01;Spending;Gastos e Receitas
+ACC30-11;Recurring costs;Gastos recorrentes
+ACC30-21;Transactions;TransaÃ§Ãµes
+ACC30-31;Today;Hoje
+ACC30-41;Yesterday;Ontem
+;;
+;;
+ACC31-01;More details;Detalhamento
+ACC31-11;Add a note;Adicionar nota
+ACC31-21;This is reimbursed;Isto foi reembolsado
+ACC31-31;Add a receipt;Adicionar nota fiscal
+;;
+ACC32-01;More details;Detalhamento
+ACC32-11;Type;Tipo
+ACC32-21;Location;Local
+ACC32-31;Recieving party;Receptor
+ACC32-41;Description;DescriÃ§Ã£o
+ACC32-51;Website;Website
+ACC32-61;Add a note;Adicione uma nota
+ACC32-71;This is reimbursed;Isso foi reimbolsado
+ACC32-81;Add a receipt;Adicione uma nota fiscal
+;;
+;;
+;;
+;;
+ACC33-01;Select the reimbursed expense;Selecione o gasto reembolsado
+ACC33-11;Search;Procurar
+ACC33-21;Yesterday;Ontem
+;;
+;;
+;;
+ACC34-01;More details;Detalhamento
+ACC34-11;Add a note;Adicionar nota
+ACC34-21;This is reimbursed;Isto foi reembolsado
+ACC34-31;Add a receipt;Adicionar nota fiscal
+;;
+;;
+ACC35-01;Select the reimbursement;Selecione o reembolso
+ACC35-11;Search;Procurar
+ACC35-21;Yesterday;Ontem

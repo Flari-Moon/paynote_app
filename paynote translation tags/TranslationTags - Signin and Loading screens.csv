@@ -1,0 +1,64 @@
+ ;EN-US;PT-BR
+SIN-0-00;Connect all your bank accounts;Conecte todas as suas contas Bancárias
+SIN-0-10;Any bank! Shared account? Add them too and manage them together!;Qualquer banco ou conta conjunta! Adicione todas as suas contas e cuide delas em um só lugar
+SIN-0-20;Sign up;Registrar-se
+SIN-0-30;Login;Entrar
+SIN-1-00;Get insights on your Spending;Ganhe observações em seus gastos
+SIN-1-10;Find your fixed expenses and get na overview of your patterns. We will help you find patterns and smart savers;Encontre seus gastos recorrentes e tenha uma visão geral de seus padrões. Nos ajudaremos a encontra-los e economias inteligentes!
+SIN-1-20;SIN-0-20;SIN-0-20
+SIN-1-30;SIN-0-30;SIN-0-30
+SIN-2-00;Set goals and we will support you;Aplique objetivos e vamos lhe ajudar!
+SIN-2-10;Save money by setting goals and get advice! And why not set financial goals together?;Economise colocando seus objetivos e recebendo conselhos! Por que não colocar os objetivos em conjunto?
+SIN-2-20;SIN-0-20;SIN-0-20
+SIN-2-30;SIN-0-30;SIN-0-30
+SIN-3-00;Manage your access;Organize seu acesso 
+SIN-3-10;Choose how you want to protect account access and manage security settings;Escolha como você quer proteger sua conta e gerenciar suas configurações de segurança
+SIN-3-20;Choose a pincode;Escolha um código pin
+SIN-3-30;Use biometric;Use biometria
+SIN-3-40;Save access code;Salvar código de acesso
+SIN-3-50;I don't want to set na access restriction;Eu não quero aplicar uma restrição de acesso
+SIN-3-60;Incorrect code. Please try again;Incorrect code, please try again.
+SIN-4-00;Keep it together with Paynote;Mantenha-se organizado com Paynote
+SIN-4-10;Spending money comfortably with duly budgetting.;Gaste confortávelmente com orçamentos formados.
+SIN-4-20;SIN-0-20;SIN-0-20
+SIN-4-30;SIN-0-30;SIN-0-30
+SIN-5-00;Get started with paynote;Comece agora com Paynote
+SIN-5-10;Create your profile by entering your name and add an optional profile picture;Crie seu perfil 
+SIN-5-20;Add photo;Foto
+SIN-5-21;Name;Nome
+SIN-5-22;Surname;Sobrenome
+SIN-5-30;By creating an account I accept the terms of use for paynote ;Ao criar uma conta eu aceito os termos de uso de Paynote
+SIN-5-40;Next;Proximo
+SIN-5-50;Please accept the terms;Por favor aceite os termos
+SIN-6-00;Secure your account;Tenha segurança na sua conta
+SIN-6-10;Plase confirm your country code, paynote will verify your phone number;Confirme seu código nacional, paynote irá confirmar seu telefone
+SIN-6-20;Phone number;Numero de telefone
+SIN-6-30;Send Code;Enviar código
+SIN-7-00;Secure your account;Proteja sua conta
+SIN-7-10;Enter the 7 digit code we sent via sms message to ;Entre o código de 7 digitos enviado para
+SIN-7-20;Wrong number?;Número errado?
+SIN-7-30;Incorrect code, we sent you a new sms with a new cod. Please try again;Código incorreto, nós enviamos um novo código, por favor tente novamente
+SIN-7-40;Resent code;Reenviar código
+SIN-8-00;You're ready to start!;Você está pronto para começar!
+SIN-8-10 ;Connect your first account to start with paynote!;Conecte sua primeira conta e comece com Paynote!
+SIN-8-20;Add a bank account;Adicionar conta bancária
+SIN-8-30;I want to skip this for now;Eu quero pular esta etapa por enquanto
+SIN-9-00;Welcome Back;Bem vinde de volta
+SIN-9-10;Lets get into your account;Vamos acessar sua conta
+SIN-9-20;Phone number;Numero de telefone
+SIN-9-30;Send Code;Enviar código
+SIN-9-40;I've got a new phone number;Eu tenho um novo numero de telefone
+SIN-A-00;Hi;Olá
+SIN-A-10;Log in with your security code;Acesse com seu código de segurança
+SIN-A-20;Incorrect code, please try again;Codigo incorreto, por favor tente novamente.
+SIN-A-30;Forgot your pincode?;Esqueceu seu pin?
+LOA-0-00;Loading...;Carregando...
+LOA-0-10;We are trying to make this super fast;Nós estamos tentando fazer isso super rápido
+LOA-1-00;Yay, you are back in!;Yay! Você está logado
+LOA-1-10;you are ready to continue;está pronto para continuar
+LOA-2-00;Yay, account secured;Yay! Conta segura
+LOA-2-10;Lets finish setting you up;Vamos terminar de configurar
+LOA-2-20;Continue;Continuar
+LOA-3-00;Oops, something went wrong.;"Opa, algo deu errado;"
+LOA-3-10;We will send a new code and try again;Nós enviaremos um novo código e tentaremos de novo
+LOA-3-20;Try again;Tentar novamente.

@@ -1,0 +1,101 @@
+ ;EN-US;PT-BR
+HOM-0-00;Goodafternoon,;Boa tarde
+HOM-0-10;You have no accounts yet;Você não tem contas ainda
+HOM-0-20;When you are ready, connect your first account to start with paynote;Quando estiver pronto, conecte sua conta e comece com paynote
+HOM-0-30;Add a new bank account;Add a new bank account
+HOM-1-00;Turn on notifications to get the most out of paynote;Ative notificações para ter a melhor experiencia paynote
+HOM-1-10;Enable notifications for paynote so we can help you stay on track with badges, alerts or notifications!;
+HOM-1-20;Customize which notifications you want to receive in your profile;Customize suas notificações que deseja reeber no perfil
+HOM-1-30;Allow notifications;Autorizar notificações
+HOM-1-40;not now;Agora não
+HOM-2-00;Goodafternoon,;Boa tarde
+HOM-2-10;Today;Hoje
+HOM-2-11;This week;Esta semana
+HOM-2-12;Custom ;Personalizado
+HOM-2-20;Current Balance;Saldo atual
+HOM-2-30;Recurring Costs;Custos recorrentes
+HOM-2-40;Spendable income;Saldo atual
+HOM-2-50;Expected & Spending;Esperado e gastos
+HOM-2-51;What if...;E se...
+HOM-2-60;Ongoing goals;Objetivos atuais
+HOM-2-70;Last transactions;Ultimas transações
+HOM-2-80;Spend;Gastos
+HOM-2-00;Recurring costs;Custos recorrentes
+HOM-2-10;Day;Dia
+HOM-2-11;Week;Semana
+HOM-2-12;Month;Mês
+HOM-2-20;Spend;Gastos
+HOM-2-30;What is this?;O que é isso?
+HOM-3-00;Spending;Gastos
+HOM-3-10;Day;Dia
+HOM-3-11;Week;Semana
+HOM-3-12;Month;Mês
+HOM-3-20;Spend;Gastos
+HOM-3-30;What is this?;O que é isso?
+HOM-4-00;Expected expenses;Despesas esperadas
+HOM-4-10;Day;Dia
+HOM-4-11;Week;Semana
+HOM-4-12;Month;Mês
+HOM-4-20;Expected;Esperado
+HOM-4-30;Whi is this expected?;O que é esperado?
+HOM-4-40;What does this mean for me?;O que isso significa para mim?
+HOM-4-50;How my spendable income is calculated?;Como minha renda para gastos é calculada?
+HOM-5-00;What if...;E se...
+HOM-5-10;Get a new prediction on your average daily spendable income untill your set salary period;Receba uma nova projeção no seu gasto médio diário.
+HOM-5-20;If I spend;Se eu gastar.
+HOM-5-30;today;Hoje
+HOM-5-40;perday is set at salary period;Por dia em um periodo pré estabelecido
+HOM-5-50;Change Salary period;Mudar o período de salario
+HOM-5-60;How is this calculated?;Como isso é calculado?
+HOM-5-70;Calculating recurring costs;Calculando gastos recorrentes
+HOM-5-80;Calculate;Calcular
+HOM-5-90;I can spend;Eu posso gastar
+HOM-5-A0;Per day;Por dia
+HOM-5-A1;days left;dias
+HOM-5-B0;Try again;Tentar de novo
+HOM-6-00;What if...;E se...
+HOM-6-10;Get a new prediction on your average daily spendable income untill your set salary period;Receba uma nova projeção no seu gasto médio diário.
+HOM-6-20;Salary period;Periodo de salário
+HOM-6-30;Monthly break;Mensal
+HOM-6-40;We calculate from and till this date;Calcularemos até esta data
+HOM-6-50;Calendar period;Calendario
+HOM-6-60;We calculate from the first of a month;Calculamos a partir do dia primeiro de todo mês
+HOM-6-70;Custom;Customizado
+HOM-6-80;Set for weekly or custom period;Aplique semanal ou período customizado
+HOM-6-90;Save changes;Salvar mudanças
+HOM-6-A0;Cancel;Cancelar
+HOM-7-00;Filter & widgets;Filtros e widgets
+HOM-7-10;Add and organize your widgets;Adicione e organize seus widgets
+HOM-7-20;Salary period;Periodo salarial
+HOM-7-21;Monthly break;Mensal
+HOM-7-30;Home page ;Home page
+HOM-7-40;Insights;Projeções
+HOM-7-50;Expected & spending;Esperado e gastos
+HOM-7-60;Biggest expenses;Maiores gastos
+HOM-7-70;Budgets;Orçamentos
+HOM-7-80;Widget4;Widget4
+HOM-7-90;Widget5;Widget5
+HOM-7-A0;Save;Salvar
+ACC-0-00;Accounts;Contas
+ACC-0-10;bank accounts;contas bancárias
+ACC-0-00;Filter & widgets;Filtros e widgets
+ACC-0-10;Set your standard monthly break or choose visible bank accounts;Salve seu período salarial padrão ou escolha as contas bancárias visiveis
+ACC-0-20;Salary period;Periodo salarial
+ACC-0-30;bank accounts;contas bancárias
+ACC-0-40;Insights;Projeções
+ACC-0-50;Save;Salvar
+ACC-1-00;Recurring Costs;Custos recorrentes
+ACC-1-01;all accounts;todas as contas
+ACC-1-10;Per month;por mês
+ACC-1-11;Per year;por ano
+ACC-2-20;I'm missing something;Algo está faltando
+ACC-2-30;Removed as recurring costs;Custos recorrentes removidos
+ACC-3-00;Transactions;Transações
+ACC-3-01;all accounts;Todas as contas
+ACC-3-10;Search;Procurar
+ACC-3-20;Today;Hoje
+ACC-3-30;Yesterday;Ontem
+ACC-4-00;More details;Mais detalhes
+ACC-4-10;Add a note;Adicionar uma nota
+ACC-4-20;This is reimbursed;Isso foi reembolsado
+ACC-4-30;Add a receipt;Adicionar uma nota fiscal

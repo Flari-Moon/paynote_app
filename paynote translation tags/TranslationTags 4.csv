@@ -1,0 +1,74 @@
+ ;EN-US;PT-BR
+INS-0-00;Insights;Insights
+INS-0-10;You have no accounts yet;Você ainda não tem contas
+INS-0-20;When youre ready connect your first account to start with paynote;Quando estiver pronte conecte seu banco para começar com Paynote
+INS-0-30;Add a new bank account;Adicionar nova conta bancária
+INS-1-00;Insights;Insights
+INS-1-01;Salary Period;Periodo salarial
+INS-1-10;Month;Mês
+INS-1-11;6 months;6 meses
+INS-1-12;year;Ano
+INS-1-13;Custom;Customizado
+INS-1-20;Income;Renda
+INS-1-30;Expenses;Despesas
+INS-1-40;Deficiency;Deficiencias
+INS-1-50;Biggest expenses;Maiores despesas
+INS-1-60;Budgets;Orçamentos
+INS-2-00;Incoming;Rendas
+INS-2-01;Salary Period;Periodo salarial
+INS-2-10;Month;Mês
+INS-2-11;6 months;6 meses
+INS-2-12;Year;Ano
+INS-2-13;Custom;Customizado
+INS-2-20;Income;Renda
+INS-2-30;Average per month;Media mensal
+INS-2-40;m;m
+INS-2-50;total;total
+INS-3-00;Outgoing;Saidas
+INS-3-01;Salary Period;Periodo salarial
+INS-3-10;Month;Mês
+INS-3-11;6 months;6 meses
+INS-3-12;year;Ano
+INS-3-13;Custom;Customizado
+INS-3-20;Expense;Gasto
+INS-4-00;Deficiency;Deficiencias
+INS-4-01;Salary Period;Periodo salarial
+INS-4-10;Month;Mês
+INS-4-11;6 months;6 meses
+INS-4-12;year;Ano
+INS-4-13;Custom;Customizado
+INS-4-20;Deficiency;Deficiencia
+INS-5-00;Categories;Categorias
+INS-5-01;Salary Period;Periodo salarial
+INS-5-10;Check & correct these transactions;Cheque e corrija estas transações
+INS-5-11;Start;Comece
+INS-5-20;categorized transactions;Transações categorizadas
+INS-6-00;Budgets;Orçamentos
+INS-6-10;Make a plan to stay on corse;Faça um plano para ficar nos trilhos!
+INS-6-20;Set budgets for your categories;Aplique orçamentos para as suas categorias
+INS-6-21;Start;Comece
+INS-7-00;Filter your insights;Filtre seus insights
+INS-7-10;Select bank accounts you want to include or exclude from the data charts;Selecione suas contas bancarias que você quer incluir ou excluir dos dados e gráficos
+INS-7-20;Save Selection;Salvar seleção
+ACC-0-00;Accounts;Contas Bancárias
+ACC-0-10;You have no accounts yet;Você ainda não possui contas bancárias
+ACC-0-20;When you're ready connect your first account to start with paynote;Quando estiver pronto conecte sua primeira conta para começar com paynote
+ACC-0-30;Add a new bank account;Adicione uma nova conta bancária
+ACC-1-00;Select your bank;Selecione seu banco
+ACC-1-10;Search;Procure
+ACC-1-20;Connect;Conectar
+ACC-2-00;Redirtect to chosen bank to log in and approve connection;Redirecionando para o banco escolhido par aprovar a conexão
+ACC-3-00;Conecting...;Conectando...
+ACC-3-10;We are trying to make this super fast while securely categorizing your transactions;Estamos fazendo o melhor para fazer isto ser super rapido e seguro.
+ACC-4-00;Yay, it worked!;Isso ai! Funcionou!
+ACC-4-10;is connected;Está conectado
+ACC-5-00;Choose the account name;Escolha o nome da conta
+ACC-5-10;Tip:Name the account according to how you use it or who owns it;Dica: Nomeie a conta de acordo com como ÃƒÂ© usada ou quem a usa
+ACC-5-20;Account Name;Nome da Conta
+ACC-5-30;Save account;Salvar conta
+ACC-6-00;Accounts;Contas
+ACC-6-10;bank accounts;Contas Bancárias
+ACC-6-20;Accounts;Contas
+ACC-6-30;bank accounts;Contas Bancárias
+ACC-6-40;bank account deleted;Conta Bancária deletada
+ACC-6-50;undo;desfazer
